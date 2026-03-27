@@ -18,3 +18,8 @@ git clone git@github.com:your-username/your-repo.git
 (type passphrase if you have one)
 
 
+Updates from the git on the server:  
+
+git status  
+git pull
+
